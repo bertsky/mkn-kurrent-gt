@@ -1,0 +1,50 @@
+schema: https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json
+title: test-gt
+url: https://github.com/bertsky/test-gt
+authors:
+  - name: juan
+    surname: garces
+    roles:
+      - project-manager
+  - name: Carolin
+    surname: Menzer
+    roles:
+      - transcriber
+      - quality-control
+      - support
+  - name: xyz
+    surname: ''
+    roles:
+      - transcriber
+  - name: SLUB
+    surname: ''
+    roles:
+      - institution
+      - digitization
+description: Kurrent GT from the Moravian Knowledge Network handwritten periodicals
+project-name: Gemein-Nachrichten der Herrnhuter Brüdergemeine
+project-website: https://dhh.hypotheses.org/
+language:
+  - deu
+production-software: eScriptorium + Kraken
+script:
+  - Kurrent
+script-type: only-manuscript
+time:
+  notBefore: '1765'
+  notAfter: '1806'
+hands:
+  count: '50'
+  level: level2
+license:
+  - name: PublicDomainMark 1.0
+    url: https://creativecommons.org/publicdomain/mark/1.0/
+gtType: data_structure_and_text
+format: Page-XML
+volume:
+  - metric: pages
+    count: 800
+transcription-guidelines: 'OCR-D GT Level 2, but with ℓ as '
+modeltitle: herrnhut-kurrent
+modeldescription: deep+wide topology, with augmentation, no binarization, only Herrnhut Kurrent
+modelengine: Kraken CLI (Ketos)
