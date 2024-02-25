@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="GT-OCR-GN_1770_2__GN.A.148__33_f1e82" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FNachaudeB_1766017886_1770_2%2FNachaudeB_1766017886_1770_2_tif%2Fjpegs%2F00000034.tif.medium.jpg/full/full/0/default.jpg">
+    <Creator>escriptorium</Creator>
+    <Created>2024-01-26T15:14:57</Created>
+    <LastChange>2024-02-13T13:21:33</LastChange>
+    <Comments/>
+    <MetadataItem name="recognition/post-correction" type="processingStep" value="ocrd-cor-asv-ann-join">
+      <Labels externalId="version" externalModel="ocrd-tool">
+        <Label type="ocrd-cor-asv-ann-join" value="0.1.14"/>
+        <Label type="ocrd/core" value="2.60.2.dev0+gac1f15b3.d20240125"/>
+      </Labels>
+    </MetadataItem>
+  </Metadata>
+  <Page imageFilename="33_f1e82_default.jpg" imageHeight="1598" imageWidth="1000">
+    <TextRegion custom="structure {type:text;}" id="eSc_textblock_a917730d">
+      <Coords points="198,67 212,85 205,109 134,112 127,81 143,60"/>
+      <TextLine custom="structure {type:default;}" id="eSc_line_8e83e8f1">
+        <Coords points="175,63 173,63 149,66 135,101 149,125 179,120 202,97 178,63 175,63"/>
+        <Baseline points="149,99 179,99"/>
+        <TextEquiv index="0">
+          <Unicode>28.</Unicode>
+        </TextEquiv>
+        <TextEquiv conf="1.0" index="1">
+          <Unicode>28.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode/>
+      </TextEquiv>
+    </TextRegion>
+  </Page>
+</PcGts>
