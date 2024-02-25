@@ -20,9 +20,6 @@
       <pc:TextLine id="eSc_line_78af509b">
         <pc:Coords points="254,123 240,119 228,115 215,110 200,118 186,128 186,130 181,174 251,177 256,136 256,124 254,123"/>
         <pc:Baseline points="187,131 258,138"/>
-        <pc:TextEquiv index="0">
-          <pc:Unicode/>
-        </pc:TextEquiv>
         <pc:TextEquiv conf="0.9963" index="1">
           <pc:Unicode>12.</pc:Unicode>
         </pc:TextEquiv>

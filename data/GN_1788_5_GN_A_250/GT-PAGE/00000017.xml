@@ -253,9 +253,6 @@
       <pc:TextLine id="eSc_line_508fcc9a" custom="structure {type:default;}">
         <pc:Coords points="757,1372 757,1395 773,1395 773,1394 774,1394 775,1394 781,1389 791,1381 812,1381 812,1372 812,1334 767,1331 766,1331 765,1331 757,1335 757,1372"/>
         <pc:Baseline points="757,1372 812,1372"/>
-        <pc:TextEquiv index="0">
-          <pc:Unicode/>
-        </pc:TextEquiv>
         <pc:TextEquiv conf="1." index="1">
           <pc:Unicode>Zu</pc:Unicode>
         </pc:TextEquiv>

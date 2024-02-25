@@ -28,9 +28,6 @@
       <TextLine custom="structure {type:default;}" id="eSc_line_264d959b">
         <Coords points="91,133 90,143 113,143 129,159 129,160 130,160 131,160 153,163 154,164 190,164 190,163 191,163 192,163 215,147 216,136 215,124 91,120 91,133"/>
         <Baseline points="91,133 216,136"/>
-        <TextEquiv index="0">
-          <Unicode/>
-        </TextEquiv>
         <TextEquiv conf="0.9189" index="1">
           <Unicode>eingeſpant-</Unicode>
         </TextEquiv>

@@ -28,9 +28,6 @@
       <TextLine custom="structure {type:default;}" id="eSc_line_6cbf192e">
         <Coords points="85,148 85,159 176,158 177,146 175,127 84,128 85,148"/>
         <Baseline points="85,148 177,146"/>
-        <TextEquiv index="0">
-          <Unicode/>
-        </TextEquiv>
         <TextEquiv conf="0.9656" index="1">
           <Unicode>trinket</Unicode>
         </TextEquiv>

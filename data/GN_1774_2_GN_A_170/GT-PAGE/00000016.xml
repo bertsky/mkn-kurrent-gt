@@ -323,9 +323,6 @@
       <pc:TextLine id="eSc_line_2b0572d6" custom="structure {type:default;}">
         <pc:Coords points="914,1568 914,1585 914,1598 931,1598 931,1585 931,1568 923,1568"/>
         <pc:Baseline points="914,1585 931,1585"/>
-        <pc:TextEquiv index="0">
-          <pc:Unicode/>
-        </pc:TextEquiv>
         <pc:TextEquiv conf="0.9763" index="1">
           <pc:Unicode>auh</pc:Unicode>
         </pc:TextEquiv>
