@@ -9910,6 +9910,7 @@
         <mets:FLocat xlink:href="GT-PAGE/00000186.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
       </mets:file>
     </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG"/>
   </mets:fileSec>
   <mets:structMap TYPE="LOGICAL">
     <mets:div CONTENTIDS="https://digital.slub-dresden.de/id1745043195" ID="LOG_0002" LABEL="Nachrichten aus der Brüder-Gemeine" ORDERLABEL="Nachrichten aus der Brüder-Gemeine" TYPE="multivolume_work">

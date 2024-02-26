@@ -12295,6 +12295,7 @@
         <mets:FLocat xlink:href="GT-PAGE/00000019.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
       </mets:file>
     </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG"/>
   </mets:fileSec>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence" ID="PHYS_0000">
