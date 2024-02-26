@@ -280,7 +280,17 @@
    <div id="extent">
       <h2>Extent</h2>
       <p>
-                                In this section they can insert additional information, instructions or notes.
-                            </p>
+      This Ground Truth contains a random subsample of pages from various
+      issues of the _Gemein-Nachrichten_ of the Moravian congregation 
+      (Brüder-Gemeine) from Herrnhut. The German texts are written in Kurrent
+      by various writers and originate between 1765 and 1807.
+      The METS files derive directly from the respective digitised objects in the
+      [Digital Collections of SLUB](https://digital.slub-dresden.de). They have
+      been completed by an additional fileGrp `GT-PAGE`.
+      </p>
+      <p>
+      For workflows how these files were created and can be used for training
+      OCR models, cf. [Wiki pages](https://github.com/bertsky/mkn-kurrent-gt/wiki).
+      </p>
    </div>
 </div>
