@@ -3,7 +3,7 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt>Name:</dt>
-      <dd>test-gt</dd>
+      <dd>mkn-kurrent-gt</dd>
       <dt>Description:</dt>
       <dd>Kurrent GT from the Moravian Knowledge Network handwritten periodicals</dd>
       <dt>Language:</dt>
@@ -121,7 +121,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v0.0.5">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 5_v0.0.5</a>
+         <a href="https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v1.0.0">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 6_v1.0.0</a>
       </li>
       <li>
          <a href="https://github.com/bertsky/mkn-kurrent-gt/releases">Version archive</a>

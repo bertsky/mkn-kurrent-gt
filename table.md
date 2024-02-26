@@ -17,7 +17,7 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt>Name:</dt>
-      <dd>test-gt</dd>
+      <dd>mkn-kurrent-gt</dd>
       <dt>Description:</dt>
       <dd>Kurrent GT from the Moravian Knowledge Network handwritten periodicals</dd>
       <dt>Language:</dt>
@@ -242,7 +242,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000101.xml">00000101.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000101.xml">00000101.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -263,7 +263,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000099.xml">00000099.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000099.xml">00000099.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -284,7 +284,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000060.xml">00000060.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000060.xml">00000060.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -305,28 +305,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000015.xml">00000015.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000058.xml">00000058.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000015.xml">00000015.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -347,7 +326,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000050.xml">00000050.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000058.xml">00000058.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000050.xml">00000050.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -368,7 +368,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000091.xml">00000091.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000091.xml">00000091.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -389,7 +389,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000069.xml">00000069.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000069.xml">00000069.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -410,7 +410,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000071.xml">00000071.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000071.xml">00000071.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -431,7 +431,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000086.xml">00000086.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000086.xml">00000086.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -452,7 +452,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000036.xml">00000036.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000036.xml">00000036.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -473,7 +473,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000428.xml">00000428.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000428.xml">00000428.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -494,7 +494,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000035.xml">00000035.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000035.xml">00000035.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -515,7 +515,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000062.xml">00000062.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000062.xml">00000062.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -536,7 +536,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000023.xml">00000023.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000023.xml">00000023.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -557,7 +557,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000012.xml">00000012.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000012.xml">00000012.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -578,7 +578,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000087.xml">00000087.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000087.xml">00000087.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -599,7 +599,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000433.xml">00000433.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000433.xml">00000433.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -620,7 +620,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000059.xml">00000059.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000059.xml">00000059.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -641,7 +641,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000067.xml">00000067.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000067.xml">00000067.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -662,7 +662,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000076.xml">00000076.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000076.xml">00000076.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -683,7 +683,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000034.xml">00000034.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000034.xml">00000034.xml</a>
                            </td>
                            <td>1</td>
                            <td>1</td>
@@ -704,28 +704,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000054.xml">00000054.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000426.xml">00000426.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000054.xml">00000054.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -746,7 +725,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000043.xml">00000043.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000426.xml">00000426.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000043.xml">00000043.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -767,7 +767,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000038.xml">00000038.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000038.xml">00000038.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -788,7 +788,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000014.xml">00000014.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000014.xml">00000014.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -809,7 +809,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000024.xml">00000024.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000024.xml">00000024.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -830,7 +830,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000434.xml">00000434.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000434.xml">00000434.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -851,7 +851,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000011.xml">00000011.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000011.xml">00000011.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -872,7 +872,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000424.xml">00000424.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000424.xml">00000424.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -893,7 +893,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000044.xml">00000044.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000044.xml">00000044.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -914,7 +914,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000070.xml">00000070.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000070.xml">00000070.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -935,7 +935,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000027.xml">00000027.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000027.xml">00000027.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -956,7 +956,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000079.xml">00000079.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000079.xml">00000079.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -977,7 +977,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000068.xml">00000068.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000068.xml">00000068.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -998,7 +998,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000056.xml">00000056.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000056.xml">00000056.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1019,7 +1019,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000100.xml">00000100.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000100.xml">00000100.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1040,7 +1040,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000078.xml">00000078.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000078.xml">00000078.xml</a>
                            </td>
                            <td>18</td>
                            <td>1</td>
@@ -1061,7 +1061,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000046.xml">00000046.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000046.xml">00000046.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -1082,7 +1082,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000425.xml">00000425.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000425.xml">00000425.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1103,7 +1103,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000016.xml">00000016.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000016.xml">00000016.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1124,7 +1124,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000019.xml">00000019.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000019.xml">00000019.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1145,7 +1145,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000432.xml">00000432.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000432.xml">00000432.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -1166,7 +1166,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000020.xml">00000020.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000020.xml">00000020.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1187,7 +1187,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000089.xml">00000089.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000089.xml">00000089.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1208,7 +1208,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000082.xml">00000082.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000082.xml">00000082.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1229,7 +1229,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000093.xml">00000093.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000093.xml">00000093.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1250,7 +1250,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000092.xml">00000092.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000092.xml">00000092.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1271,7 +1271,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000026.xml">00000026.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000026.xml">00000026.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1292,7 +1292,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000094.xml">00000094.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000094.xml">00000094.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1313,7 +1313,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000075.xml">00000075.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000075.xml">00000075.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1334,7 +1334,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000051.xml">00000051.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000051.xml">00000051.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1355,7 +1355,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000030.xml">00000030.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000030.xml">00000030.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1376,7 +1376,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000017.xml">00000017.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000017.xml">00000017.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1397,7 +1397,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000031.xml">00000031.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000031.xml">00000031.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1418,7 +1418,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000045.xml">00000045.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000045.xml">00000045.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1439,7 +1439,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000066.xml">00000066.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000066.xml">00000066.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1460,7 +1460,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000052.xml">00000052.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000052.xml">00000052.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1481,7 +1481,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000033.xml">00000033.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000033.xml">00000033.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -1502,7 +1502,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000053.xml">00000053.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000053.xml">00000053.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1523,7 +1523,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000041.xml">00000041.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000041.xml">00000041.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1544,7 +1544,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000097.xml">00000097.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000097.xml">00000097.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1565,7 +1565,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000080.xml">00000080.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000080.xml">00000080.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1586,7 +1586,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000095.xml">00000095.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000095.xml">00000095.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1607,7 +1607,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000055.xml">00000055.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000055.xml">00000055.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1628,7 +1628,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000064.xml">00000064.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000064.xml">00000064.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1649,7 +1649,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000085.xml">00000085.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000085.xml">00000085.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1670,7 +1670,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000007.xml">00000007.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000007.xml">00000007.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1691,7 +1691,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000042.xml">00000042.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000042.xml">00000042.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1712,7 +1712,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000028.xml">00000028.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000028.xml">00000028.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1733,7 +1733,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000049.xml">00000049.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000049.xml">00000049.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1754,7 +1754,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000430.xml">00000430.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000430.xml">00000430.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -1775,7 +1775,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000010.xml">00000010.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000010.xml">00000010.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1796,7 +1796,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000090.xml">00000090.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000090.xml">00000090.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1817,7 +1817,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000098.xml">00000098.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000098.xml">00000098.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1838,7 +1838,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000048.xml">00000048.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000048.xml">00000048.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1859,7 +1859,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000077.xml">00000077.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000077.xml">00000077.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -1880,7 +1880,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000061.xml">00000061.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000061.xml">00000061.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1901,7 +1901,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000037.xml">00000037.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000037.xml">00000037.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1922,7 +1922,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000431.xml">00000431.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000431.xml">00000431.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1943,7 +1943,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000040.xml">00000040.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000040.xml">00000040.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1964,7 +1964,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000009.xml">00000009.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000009.xml">00000009.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1985,7 +1985,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000072.xml">00000072.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000072.xml">00000072.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2006,7 +2006,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000018.xml">00000018.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000018.xml">00000018.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -2027,7 +2027,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000073.xml">00000073.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000073.xml">00000073.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2048,7 +2048,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000025.xml">00000025.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000025.xml">00000025.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2069,7 +2069,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000022.xml">00000022.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000022.xml">00000022.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2090,7 +2090,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000081.xml">00000081.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000081.xml">00000081.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2111,7 +2111,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000096.xml">00000096.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000096.xml">00000096.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2132,7 +2132,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000102.xml">00000102.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000102.xml">00000102.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -2153,7 +2153,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000057.xml">00000057.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000057.xml">00000057.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2174,7 +2174,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000074.xml">00000074.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000074.xml">00000074.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2195,7 +2195,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000088.xml">00000088.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000088.xml">00000088.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2216,7 +2216,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000039.xml">00000039.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000039.xml">00000039.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2237,7 +2237,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000047.xml">00000047.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000047.xml">00000047.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2258,7 +2258,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000013.xml">00000013.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000013.xml">00000013.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2279,7 +2279,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000008.xml">00000008.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000008.xml">00000008.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2300,7 +2300,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000429.xml">00000429.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000429.xml">00000429.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2321,7 +2321,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000032.xml">00000032.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000032.xml">00000032.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2342,7 +2342,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000083.xml">00000083.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000083.xml">00000083.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2363,7 +2363,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000029.xml">00000029.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000029.xml">00000029.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2384,7 +2384,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000063.xml">00000063.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000063.xml">00000063.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2405,7 +2405,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000065.xml">00000065.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000065.xml">00000065.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2426,7 +2426,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000084.xml">00000084.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000084.xml">00000084.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -2447,7 +2447,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000021.xml">00000021.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000021.xml">00000021.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -2468,7 +2468,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1770_2_GN_A_148/GT-PAGE/00000427.xml">00000427.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1770_2_GN_A_148/GT-PAGE/00000427.xml">00000427.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2538,7 +2538,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000191.xml">00000191.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000191.xml">00000191.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2559,7 +2559,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000192.xml">00000192.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000192.xml">00000192.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2580,28 +2580,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000458.xml">00000458.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000481.xml">00000481.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000458.xml">00000458.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2622,28 +2601,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000188.xml">00000188.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000463.xml">00000463.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000481.xml">00000481.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2664,7 +2622,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000483.xml">00000483.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000188.xml">00000188.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2685,7 +2643,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000462.xml">00000462.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000463.xml">00000463.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000483.xml">00000483.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2706,7 +2685,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000194.xml">00000194.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000462.xml">00000462.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2727,7 +2706,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000474.xml">00000474.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000194.xml">00000194.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000474.xml">00000474.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2748,7 +2748,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000454.xml">00000454.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000454.xml">00000454.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2769,91 +2769,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000464.xml">00000464.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000190.xml">00000190.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000466.xml">00000466.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000472.xml">00000472.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000457.xml">00000457.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000464.xml">00000464.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2874,7 +2790,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000459.xml">00000459.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000190.xml">00000190.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2895,7 +2811,49 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000461.xml">00000461.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000466.xml">00000466.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000472.xml">00000472.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000457.xml">00000457.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2916,7 +2874,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000470.xml">00000470.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000459.xml">00000459.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000461.xml">00000461.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2937,7 +2916,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000473.xml">00000473.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000470.xml">00000470.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2958,7 +2937,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000479.xml">00000479.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000473.xml">00000473.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000479.xml">00000479.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -2979,7 +2979,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000189.xml">00000189.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000189.xml">00000189.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3000,7 +3000,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000478.xml">00000478.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000478.xml">00000478.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3021,7 +3021,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000465.xml">00000465.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000465.xml">00000465.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3042,7 +3042,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000456.xml">00000456.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000456.xml">00000456.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3063,7 +3063,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000480.xml">00000480.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000480.xml">00000480.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3084,112 +3084,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000186.xml">00000186.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000453.xml">00000453.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000460.xml">00000460.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000193.xml">00000193.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000476.xml">00000476.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000475.xml">00000475.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000186.xml">00000186.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3210,7 +3105,112 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000484.xml">00000484.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000453.xml">00000453.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000460.xml">00000460.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000193.xml">00000193.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000476.xml">00000476.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000475.xml">00000475.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000484.xml">00000484.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -3231,7 +3231,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000471.xml">00000471.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000471.xml">00000471.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3252,7 +3252,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000477.xml">00000477.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000477.xml">00000477.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3273,7 +3273,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000185.xml">00000185.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000185.xml">00000185.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3294,7 +3294,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000482.xml">00000482.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000482.xml">00000482.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3315,28 +3315,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000455.xml">00000455.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000469.xml">00000469.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000455.xml">00000455.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3357,7 +3336,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000187.xml">00000187.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000469.xml">00000469.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000187.xml">00000187.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3378,7 +3378,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000468.xml">00000468.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000468.xml">00000468.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3399,7 +3399,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1773_3_GN_A_167/GT-PAGE/00000467.xml">00000467.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1773_3_GN_A_167/GT-PAGE/00000467.xml">00000467.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -3469,7 +3469,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000015.xml">00000015.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000015.xml">00000015.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -3490,7 +3490,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000005.xml">00000005.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000005.xml">00000005.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3511,7 +3511,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000012.xml">00000012.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000012.xml">00000012.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3532,7 +3532,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000006.xml">00000006.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000006.xml">00000006.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -3553,7 +3553,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000014.xml">00000014.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000014.xml">00000014.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -3574,7 +3574,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000011.xml">00000011.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000011.xml">00000011.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3595,7 +3595,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000016.xml">00000016.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000016.xml">00000016.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -3616,7 +3616,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000017.xml">00000017.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000017.xml">00000017.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -3637,7 +3637,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000007.xml">00000007.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000007.xml">00000007.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3658,7 +3658,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000010.xml">00000010.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000010.xml">00000010.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3679,7 +3679,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000009.xml">00000009.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000009.xml">00000009.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -3700,7 +3700,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000013.xml">00000013.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000013.xml">00000013.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3721,7 +3721,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_2_GN_A_170/GT-PAGE/00000008.xml">00000008.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_2_GN_A_170/GT-PAGE/00000008.xml">00000008.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -3791,7 +3791,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_1_GN_A_109/GT-PAGE/00000024.xml">00000024.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_1_GN_A_109/GT-PAGE/00000024.xml">00000024.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -3861,7 +3861,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000538.xml">00000538.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000538.xml">00000538.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3882,7 +3882,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000540.xml">00000540.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000540.xml">00000540.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3903,7 +3903,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000550.xml">00000550.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000550.xml">00000550.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -3924,7 +3924,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000534.xml">00000534.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000534.xml">00000534.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3945,7 +3945,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000532.xml">00000532.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000532.xml">00000532.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -3966,7 +3966,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000533.xml">00000533.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000533.xml">00000533.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -3987,7 +3987,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000554.xml">00000554.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000554.xml">00000554.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4008,7 +4008,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000544.xml">00000544.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000544.xml">00000544.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -4029,7 +4029,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000548.xml">00000548.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000548.xml">00000548.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4050,7 +4050,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000535.xml">00000535.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000535.xml">00000535.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4071,7 +4071,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000542.xml">00000542.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000542.xml">00000542.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -4092,7 +4092,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000545.xml">00000545.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000545.xml">00000545.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4113,7 +4113,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000549.xml">00000549.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000549.xml">00000549.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -4134,7 +4134,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000536.xml">00000536.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000536.xml">00000536.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -4155,7 +4155,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000543.xml">00000543.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000543.xml">00000543.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4176,7 +4176,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000546.xml">00000546.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000546.xml">00000546.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -4197,7 +4197,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000547.xml">00000547.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000547.xml">00000547.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4218,7 +4218,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000541.xml">00000541.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000541.xml">00000541.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4239,7 +4239,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000551.xml">00000551.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000551.xml">00000551.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -4260,7 +4260,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000539.xml">00000539.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000539.xml">00000539.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4281,7 +4281,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000553.xml">00000553.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000553.xml">00000553.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -4302,7 +4302,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000537.xml">00000537.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000537.xml">00000537.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -4323,7 +4323,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1771_4_GN_A_158/GT-PAGE/00000552.xml">00000552.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1771_4_GN_A_158/GT-PAGE/00000552.xml">00000552.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -4393,7 +4393,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000015.xml">00000015.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000015.xml">00000015.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4414,7 +4414,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000005.xml">00000005.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000005.xml">00000005.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -4435,7 +4435,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000023.xml">00000023.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000023.xml">00000023.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4456,7 +4456,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000012.xml">00000012.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000012.xml">00000012.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4477,7 +4477,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000006.xml">00000006.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000006.xml">00000006.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4498,7 +4498,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000014.xml">00000014.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000014.xml">00000014.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4519,7 +4519,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000024.xml">00000024.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000024.xml">00000024.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4540,7 +4540,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000011.xml">00000011.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000011.xml">00000011.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4561,7 +4561,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000016.xml">00000016.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000016.xml">00000016.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4582,7 +4582,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000019.xml">00000019.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000019.xml">00000019.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -4603,7 +4603,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000020.xml">00000020.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000020.xml">00000020.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4624,7 +4624,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000026.xml">00000026.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000026.xml">00000026.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4645,7 +4645,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000017.xml">00000017.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000017.xml">00000017.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4666,7 +4666,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000033.xml">00000033.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000033.xml">00000033.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4687,7 +4687,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000007.xml">00000007.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000007.xml">00000007.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4708,7 +4708,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000010.xml">00000010.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000010.xml">00000010.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -4729,7 +4729,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000009.xml">00000009.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000009.xml">00000009.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4750,7 +4750,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000018.xml">00000018.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000018.xml">00000018.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4771,7 +4771,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000025.xml">00000025.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000025.xml">00000025.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4792,7 +4792,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000022.xml">00000022.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000022.xml">00000022.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4813,7 +4813,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000013.xml">00000013.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000013.xml">00000013.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4834,7 +4834,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000008.xml">00000008.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000008.xml">00000008.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4855,7 +4855,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1765_2_GN_A_110/GT-PAGE/00000021.xml">00000021.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1765_2_GN_A_110/GT-PAGE/00000021.xml">00000021.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -4925,7 +4925,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000527.xml">00000527.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000527.xml">00000527.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -4946,7 +4946,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000507.xml">00000507.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000507.xml">00000507.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -4967,7 +4967,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000458.xml">00000458.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000458.xml">00000458.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -4988,7 +4988,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000448.xml">00000448.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000448.xml">00000448.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5009,28 +5009,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000526.xml">00000526.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000452.xml">00000452.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000526.xml">00000526.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5051,238 +5030,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000519.xml">00000519.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000481.xml">00000481.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000487.xml">00000487.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000463.xml">00000463.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000483.xml">00000483.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000462.xml">00000462.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000540.xml">00000540.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000550.xml">00000550.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000525.xml">00000525.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000534.xml">00000534.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000520.xml">00000520.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000531.xml">00000531.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000452.xml">00000452.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5303,7 +5051,259 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000474.xml">00000474.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000519.xml">00000519.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000481.xml">00000481.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000487.xml">00000487.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000463.xml">00000463.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000483.xml">00000483.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000462.xml">00000462.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000540.xml">00000540.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000550.xml">00000550.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000525.xml">00000525.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000534.xml">00000534.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000520.xml">00000520.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000531.xml">00000531.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000474.xml">00000474.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5324,7 +5324,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000502.xml">00000502.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000502.xml">00000502.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5345,7 +5345,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000491.xml">00000491.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000491.xml">00000491.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5366,7 +5366,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000486.xml">00000486.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000486.xml">00000486.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5387,7 +5387,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000512.xml">00000512.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000512.xml">00000512.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5408,7 +5408,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000498.xml">00000498.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000498.xml">00000498.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5429,7 +5429,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000506.xml">00000506.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000506.xml">00000506.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5450,7 +5450,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000454.xml">00000454.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000454.xml">00000454.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5471,7 +5471,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000464.xml">00000464.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000464.xml">00000464.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5492,7 +5492,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000532.xml">00000532.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000532.xml">00000532.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5513,7 +5513,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000466.xml">00000466.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000466.xml">00000466.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5534,7 +5534,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000472.xml">00000472.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000472.xml">00000472.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5555,7 +5555,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000513.xml">00000513.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000513.xml">00000513.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -5576,7 +5576,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000457.xml">00000457.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000457.xml">00000457.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5597,7 +5597,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000492.xml">00000492.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000492.xml">00000492.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5618,7 +5618,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000533.xml">00000533.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000533.xml">00000533.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5639,7 +5639,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000459.xml">00000459.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000459.xml">00000459.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5660,7 +5660,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000496.xml">00000496.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000496.xml">00000496.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5681,7 +5681,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000461.xml">00000461.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000461.xml">00000461.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5702,49 +5702,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000522.xml">00000522.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000524.xml">00000524.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000470.xml">00000470.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000522.xml">00000522.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5765,7 +5723,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000500.xml">00000500.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000524.xml">00000524.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5786,7 +5744,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000503.xml">00000503.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000470.xml">00000470.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000500.xml">00000500.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5807,7 +5786,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000508.xml">00000508.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000503.xml">00000503.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5828,7 +5807,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000473.xml">00000473.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000508.xml">00000508.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5849,7 +5828,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000450.xml">00000450.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000473.xml">00000473.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5870,7 +5849,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000544.xml">00000544.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000450.xml">00000450.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5891,7 +5870,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000479.xml">00000479.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000544.xml">00000544.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5912,7 +5891,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000504.xml">00000504.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000479.xml">00000479.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5933,7 +5912,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000548.xml">00000548.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000504.xml">00000504.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5954,7 +5933,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000497.xml">00000497.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000548.xml">00000548.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5975,7 +5954,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000535.xml">00000535.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000497.xml">00000497.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -5996,7 +5975,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000494.xml">00000494.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000535.xml">00000535.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6017,7 +5996,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000511.xml">00000511.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000494.xml">00000494.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6038,28 +6017,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000542.xml">00000542.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000478.xml">00000478.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000511.xml">00000511.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6080,28 +6038,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000465.xml">00000465.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000501.xml">00000501.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000542.xml">00000542.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6122,7 +6059,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000456.xml">00000456.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000478.xml">00000478.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6143,28 +6080,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000545.xml">00000545.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000493.xml">00000493.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000465.xml">00000465.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6185,7 +6101,91 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000480.xml">00000480.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000501.xml">00000501.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000456.xml">00000456.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000545.xml">00000545.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000493.xml">00000493.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000480.xml">00000480.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -6206,7 +6206,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000549.xml">00000549.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000549.xml">00000549.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6227,7 +6227,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000449.xml">00000449.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000449.xml">00000449.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6248,133 +6248,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000536.xml">00000536.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000521.xml">00000521.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000514.xml">00000514.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000518.xml">00000518.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000543.xml">00000543.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000488.xml">00000488.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000453.xml">00000453.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000536.xml">00000536.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6395,7 +6269,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000546.xml">00000546.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000521.xml">00000521.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6416,7 +6290,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000515.xml">00000515.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000514.xml">00000514.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6437,7 +6311,133 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000460.xml">00000460.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000518.xml">00000518.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000543.xml">00000543.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000488.xml">00000488.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000453.xml">00000453.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000546.xml">00000546.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000515.xml">00000515.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000460.xml">00000460.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6458,7 +6458,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000517.xml">00000517.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000517.xml">00000517.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6479,7 +6479,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000547.xml">00000547.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000547.xml">00000547.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6500,7 +6500,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000451.xml">00000451.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000451.xml">00000451.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6521,7 +6521,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000476.xml">00000476.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000476.xml">00000476.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6542,7 +6542,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000495.xml">00000495.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000495.xml">00000495.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6563,7 +6563,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000530.xml">00000530.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000530.xml">00000530.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6584,7 +6584,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000447.xml">00000447.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000447.xml">00000447.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -6605,7 +6605,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000541.xml">00000541.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000541.xml">00000541.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6626,7 +6626,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000529.xml">00000529.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000529.xml">00000529.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6647,7 +6647,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000523.xml">00000523.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000523.xml">00000523.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6668,7 +6668,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000489.xml">00000489.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000489.xml">00000489.xml</a>
                            </td>
                            <td>8</td>
                            <td>1</td>
@@ -6689,7 +6689,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000475.xml">00000475.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000475.xml">00000475.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6710,7 +6710,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000484.xml">00000484.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000484.xml">00000484.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6731,7 +6731,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000471.xml">00000471.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000471.xml">00000471.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6752,7 +6752,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000539.xml">00000539.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000539.xml">00000539.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6773,7 +6773,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000516.xml">00000516.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000516.xml">00000516.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6794,7 +6794,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000477.xml">00000477.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000477.xml">00000477.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6815,7 +6815,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000482.xml">00000482.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000482.xml">00000482.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6836,7 +6836,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000510.xml">00000510.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000510.xml">00000510.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6857,7 +6857,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000455.xml">00000455.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000455.xml">00000455.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6878,7 +6878,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000469.xml">00000469.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000469.xml">00000469.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6899,7 +6899,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000509.xml">00000509.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000509.xml">00000509.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6920,7 +6920,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000505.xml">00000505.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000505.xml">00000505.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6941,7 +6941,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000485.xml">00000485.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000485.xml">00000485.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6962,7 +6962,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000528.xml">00000528.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000528.xml">00000528.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -6983,7 +6983,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000468.xml">00000468.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000468.xml">00000468.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -7004,7 +7004,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000490.xml">00000490.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000490.xml">00000490.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -7025,7 +7025,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000499.xml">00000499.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000499.xml">00000499.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -7046,7 +7046,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_4_GN_A_354/GT-PAGE/00000467.xml">00000467.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_4_GN_A_354/GT-PAGE/00000467.xml">00000467.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -7116,7 +7116,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1807_1_GN_A_355/GT-PAGE/00000019.xml">00000019.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1807_1_GN_A_355/GT-PAGE/00000019.xml">00000019.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -7186,7 +7186,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000119.xml">00000119.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000119.xml">00000119.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7207,7 +7207,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000212.xml">00000212.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000212.xml">00000212.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7228,7 +7228,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000354.xml">00000354.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000354.xml">00000354.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7249,7 +7249,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000223.xml">00000223.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000223.xml">00000223.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7270,7 +7270,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000101.xml">00000101.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000101.xml">00000101.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7291,7 +7291,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000138.xml">00000138.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000138.xml">00000138.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7312,7 +7312,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000389.xml">00000389.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000389.xml">00000389.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7333,7 +7333,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000271.xml">00000271.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000271.xml">00000271.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7354,7 +7354,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000207.xml">00000207.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000207.xml">00000207.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7375,7 +7375,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000394.xml">00000394.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000394.xml">00000394.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7396,7 +7396,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000273.xml">00000273.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000273.xml">00000273.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -7417,7 +7417,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000371.xml">00000371.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000371.xml">00000371.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7438,7 +7438,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000099.xml">00000099.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000099.xml">00000099.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7459,7 +7459,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000191.xml">00000191.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000191.xml">00000191.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7480,7 +7480,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000060.xml">00000060.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000060.xml">00000060.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7501,7 +7501,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000106.xml">00000106.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000106.xml">00000106.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7522,7 +7522,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000386.xml">00000386.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000386.xml">00000386.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7543,7 +7543,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000130.xml">00000130.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000130.xml">00000130.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7564,7 +7564,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000239.xml">00000239.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000239.xml">00000239.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -7585,7 +7585,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000361.xml">00000361.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000361.xml">00000361.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7606,7 +7606,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000015.xml">00000015.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000015.xml">00000015.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7627,7 +7627,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000058.xml">00000058.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000058.xml">00000058.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7648,7 +7648,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000326.xml">00000326.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000326.xml">00000326.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -7669,7 +7669,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000104.xml">00000104.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000104.xml">00000104.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7690,7 +7690,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000124.xml">00000124.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000124.xml">00000124.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7711,7 +7711,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000359.xml">00000359.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000359.xml">00000359.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7732,7 +7732,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000192.xml">00000192.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000192.xml">00000192.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7753,7 +7753,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000050.xml">00000050.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000050.xml">00000050.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7774,7 +7774,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000091.xml">00000091.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000091.xml">00000091.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7795,7 +7795,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000385.xml">00000385.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000385.xml">00000385.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7816,7 +7816,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000069.xml">00000069.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000069.xml">00000069.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -7837,7 +7837,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000132.xml">00000132.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000132.xml">00000132.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -7858,7 +7858,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000365.xml">00000365.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000365.xml">00000365.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7879,7 +7879,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000071.xml">00000071.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000071.xml">00000071.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7900,7 +7900,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000005.xml">00000005.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000005.xml">00000005.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -7921,7 +7921,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000317.xml">00000317.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000317.xml">00000317.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7942,7 +7942,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000125.xml">00000125.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000125.xml">00000125.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -7963,70 +7963,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000211.xml">00000211.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000086.xml">00000086.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000036.xml">00000036.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000335.xml">00000335.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000211.xml">00000211.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8047,7 +7984,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000142.xml">00000142.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000086.xml">00000086.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8068,7 +8005,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000226.xml">00000226.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000036.xml">00000036.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8089,70 +8026,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000372.xml">00000372.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000133.xml">00000133.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000173.xml">00000173.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000149.xml">00000149.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000335.xml">00000335.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8173,7 +8047,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000347.xml">00000347.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000142.xml">00000142.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8194,7 +8068,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000195.xml">00000195.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000226.xml">00000226.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8215,7 +8089,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000035.xml">00000035.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000372.xml">00000372.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8236,7 +8110,133 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000350.xml">00000350.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000133.xml">00000133.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000173.xml">00000173.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000149.xml">00000149.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000347.xml">00000347.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000195.xml">00000195.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000035.xml">00000035.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000350.xml">00000350.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8257,7 +8257,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000062.xml">00000062.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000062.xml">00000062.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8278,7 +8278,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000179.xml">00000179.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000179.xml">00000179.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -8299,7 +8299,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000188.xml">00000188.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000188.xml">00000188.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8320,7 +8320,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000121.xml">00000121.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000121.xml">00000121.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8341,7 +8341,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000023.xml">00000023.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000023.xml">00000023.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8362,7 +8362,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000260.xml">00000260.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000260.xml">00000260.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -8383,7 +8383,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000367.xml">00000367.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000367.xml">00000367.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8404,7 +8404,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000214.xml">00000214.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000214.xml">00000214.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8425,7 +8425,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000129.xml">00000129.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000129.xml">00000129.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8446,7 +8446,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000146.xml">00000146.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000146.xml">00000146.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -8467,7 +8467,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000012.xml">00000012.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000012.xml">00000012.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -8488,7 +8488,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000169.xml">00000169.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000169.xml">00000169.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8509,7 +8509,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000181.xml">00000181.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000181.xml">00000181.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8530,7 +8530,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000126.xml">00000126.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000126.xml">00000126.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8551,49 +8551,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000087.xml">00000087.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000147.xml">00000147.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000228.xml">00000228.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000087.xml">00000087.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8614,7 +8572,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000216.xml">00000216.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000147.xml">00000147.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8635,7 +8593,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000356.xml">00000356.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000228.xml">00000228.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000216.xml">00000216.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8656,7 +8635,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000251.xml">00000251.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000356.xml">00000356.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000251.xml">00000251.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -8677,7 +8677,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000384.xml">00000384.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000384.xml">00000384.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8698,7 +8698,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000256.xml">00000256.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000256.xml">00000256.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -8719,7 +8719,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000059.xml">00000059.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000059.xml">00000059.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8740,7 +8740,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000205.xml">00000205.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000205.xml">00000205.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -8761,7 +8761,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000322.xml">00000322.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000322.xml">00000322.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8782,7 +8782,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000183.xml">00000183.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000183.xml">00000183.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8803,7 +8803,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000274.xml">00000274.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000274.xml">00000274.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8824,7 +8824,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000127.xml">00000127.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000127.xml">00000127.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8845,7 +8845,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000067.xml">00000067.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000067.xml">00000067.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8866,7 +8866,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000139.xml">00000139.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000139.xml">00000139.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8887,7 +8887,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000257.xml">00000257.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000257.xml">00000257.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -8908,7 +8908,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000194.xml">00000194.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000194.xml">00000194.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8929,7 +8929,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000346.xml">00000346.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000346.xml">00000346.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8950,7 +8950,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000387.xml">00000387.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000387.xml">00000387.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8971,7 +8971,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000276.xml">00000276.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000276.xml">00000276.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -8992,7 +8992,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000155.xml">00000155.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000155.xml">00000155.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9013,7 +9013,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000076.xml">00000076.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000076.xml">00000076.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9034,7 +9034,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000034.xml">00000034.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000034.xml">00000034.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9055,7 +9055,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000054.xml">00000054.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000054.xml">00000054.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9076,7 +9076,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000233.xml">00000233.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000233.xml">00000233.xml</a>
                            </td>
                            <td>7</td>
                            <td>1</td>
@@ -9097,7 +9097,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000144.xml">00000144.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000144.xml">00000144.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9118,7 +9118,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000043.xml">00000043.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000043.xml">00000043.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9139,7 +9139,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000115.xml">00000115.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000115.xml">00000115.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9160,7 +9160,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000331.xml">00000331.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000331.xml">00000331.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -9181,7 +9181,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000038.xml">00000038.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000038.xml">00000038.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9202,7 +9202,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000177.xml">00000177.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000177.xml">00000177.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9223,7 +9223,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000341.xml">00000341.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000341.xml">00000341.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9244,7 +9244,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000392.xml">00000392.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000392.xml">00000392.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9265,7 +9265,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000151.xml">00000151.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000151.xml">00000151.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9286,7 +9286,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000275.xml">00000275.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000275.xml">00000275.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9307,7 +9307,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000162.xml">00000162.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000162.xml">00000162.xml</a>
                            </td>
                            <td>8</td>
                            <td>1</td>
@@ -9328,7 +9328,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000156.xml">00000156.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000156.xml">00000156.xml</a>
                            </td>
                            <td>17</td>
                            <td>1</td>
@@ -9349,7 +9349,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000377.xml">00000377.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000377.xml">00000377.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9370,7 +9370,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000261.xml">00000261.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000261.xml">00000261.xml</a>
                            </td>
                            <td>12</td>
                            <td>1</td>
@@ -9391,7 +9391,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000174.xml">00000174.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000174.xml">00000174.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9412,7 +9412,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000123.xml">00000123.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000123.xml">00000123.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9433,7 +9433,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000242.xml">00000242.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000242.xml">00000242.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -9454,7 +9454,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000110.xml">00000110.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000110.xml">00000110.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9475,7 +9475,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000006.xml">00000006.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000006.xml">00000006.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9496,7 +9496,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000323.xml">00000323.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000323.xml">00000323.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9517,7 +9517,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000316.xml">00000316.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000316.xml">00000316.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9538,7 +9538,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000381.xml">00000381.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000381.xml">00000381.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9559,7 +9559,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000369.xml">00000369.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000369.xml">00000369.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9580,7 +9580,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000388.xml">00000388.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000388.xml">00000388.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9601,7 +9601,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000014.xml">00000014.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000014.xml">00000014.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9622,7 +9622,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000213.xml">00000213.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000213.xml">00000213.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9643,7 +9643,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000232.xml">00000232.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000232.xml">00000232.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9664,7 +9664,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000222.xml">00000222.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000222.xml">00000222.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9685,7 +9685,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000157.xml">00000157.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000157.xml">00000157.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -9706,7 +9706,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000165.xml">00000165.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000165.xml">00000165.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9727,7 +9727,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000024.xml">00000024.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000024.xml">00000024.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9748,7 +9748,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000011.xml">00000011.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000011.xml">00000011.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9769,7 +9769,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000264.xml">00000264.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000264.xml">00000264.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -9790,7 +9790,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000109.xml">00000109.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000109.xml">00000109.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -9811,7 +9811,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000190.xml">00000190.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000190.xml">00000190.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9832,7 +9832,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000253.xml">00000253.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000253.xml">00000253.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -9853,7 +9853,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000044.xml">00000044.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000044.xml">00000044.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9874,7 +9874,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000070.xml">00000070.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000070.xml">00000070.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9895,7 +9895,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000027.xml">00000027.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000027.xml">00000027.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9916,7 +9916,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000079.xml">00000079.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000079.xml">00000079.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9937,7 +9937,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000363.xml">00000363.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000363.xml">00000363.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9958,7 +9958,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000390.xml">00000390.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000390.xml">00000390.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -9979,7 +9979,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000068.xml">00000068.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000068.xml">00000068.xml</a>
                            </td>
                            <td>11</td>
                            <td>1</td>
@@ -10000,7 +10000,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000175.xml">00000175.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000175.xml">00000175.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10021,7 +10021,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000333.xml">00000333.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000333.xml">00000333.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10042,7 +10042,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000107.xml">00000107.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000107.xml">00000107.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10063,7 +10063,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000112.xml">00000112.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000112.xml">00000112.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10084,280 +10084,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000153.xml">00000153.xml</a>
-                           </td>
-                           <td>23</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000168.xml">00000168.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000148.xml">00000148.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000159.xml">00000159.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000202.xml">00000202.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000380.xml">00000380.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000362.xml">00000362.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000056.xml">00000056.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000100.xml">00000100.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000163.xml">00000163.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000078.xml">00000078.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000178.xml">00000178.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000324.xml">00000324.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000241.xml">00000241.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000153.xml">00000153.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -10378,7 +10105,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000046.xml">00000046.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000168.xml">00000168.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10399,7 +10126,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000016.xml">00000016.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000148.xml">00000148.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10420,7 +10147,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000114.xml">00000114.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000159.xml">00000159.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10441,7 +10168,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000150.xml">00000150.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000202.xml">00000202.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10462,7 +10189,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000279.xml">00000279.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000380.xml">00000380.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10483,7 +10210,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000321.xml">00000321.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000362.xml">00000362.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10504,28 +10231,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000111.xml">00000111.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000336.xml">00000336.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000056.xml">00000056.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10546,7 +10252,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000019.xml">00000019.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000100.xml">00000100.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10567,259 +10273,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000020.xml">00000020.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000089.xml">00000089.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000352.xml">00000352.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000082.xml">00000082.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000093.xml">00000093.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000314.xml">00000314.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000092.xml">00000092.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000342.xml">00000342.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000026.xml">00000026.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000116.xml">00000116.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000094.xml">00000094.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000348.xml">00000348.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000240.xml">00000240.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000163.xml">00000163.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -10840,7 +10294,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000075.xml">00000075.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000078.xml">00000078.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10861,7 +10315,49 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000247.xml">00000247.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000178.xml">00000178.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000324.xml">00000324.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000241.xml">00000241.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -10882,7 +10378,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000355.xml">00000355.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000046.xml">00000046.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10903,7 +10399,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000272.xml">00000272.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000016.xml">00000016.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10924,7 +10420,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000198.xml">00000198.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000114.xml">00000114.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10945,7 +10441,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000051.xml">00000051.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000150.xml">00000150.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -10966,7 +10462,364 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000161.xml">00000161.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000279.xml">00000279.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000321.xml">00000321.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000111.xml">00000111.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000336.xml">00000336.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000019.xml">00000019.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000020.xml">00000020.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000089.xml">00000089.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000352.xml">00000352.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000082.xml">00000082.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000093.xml">00000093.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000314.xml">00000314.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000092.xml">00000092.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000342.xml">00000342.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000026.xml">00000026.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000116.xml">00000116.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000094.xml">00000094.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000348.xml">00000348.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000240.xml">00000240.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -10987,7 +10840,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000030.xml">00000030.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000075.xml">00000075.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11008,175 +10861,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000017.xml">00000017.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000231.xml">00000231.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000353.xml">00000353.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000318.xml">00000318.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000337.xml">00000337.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000031.xml">00000031.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000045.xml">00000045.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000189.xml">00000189.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000235.xml">00000235.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000247.xml">00000247.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -11197,7 +10882,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000140.xml">00000140.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000355.xml">00000355.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11218,7 +10903,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000182.xml">00000182.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000272.xml">00000272.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11239,7 +10924,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000224.xml">00000224.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000198.xml">00000198.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11260,7 +10945,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000066.xml">00000066.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000051.xml">00000051.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11281,7 +10966,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000217.xml">00000217.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000161.xml">00000161.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000030.xml">00000030.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11302,112 +11008,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000176.xml">00000176.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000285.xml">00000285.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000052.xml">00000052.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000315.xml">00000315.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000033.xml">00000033.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000053.xml">00000053.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000017.xml">00000017.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11428,7 +11029,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000041.xml">00000041.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000231.xml">00000231.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11449,7 +11050,133 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000585.xml">00000585.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000353.xml">00000353.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000318.xml">00000318.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000337.xml">00000337.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000031.xml">00000031.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000045.xml">00000045.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000189.xml">00000189.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000235.xml">00000235.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -11470,7 +11197,280 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000203.xml">00000203.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000140.xml">00000140.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000182.xml">00000182.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000224.xml">00000224.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000066.xml">00000066.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000217.xml">00000217.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000176.xml">00000176.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000285.xml">00000285.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000052.xml">00000052.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000315.xml">00000315.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000033.xml">00000033.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000053.xml">00000053.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000041.xml">00000041.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000585.xml">00000585.xml</a>
+                           </td>
+                           <td>23</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000203.xml">00000203.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -11491,7 +11491,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000208.xml">00000208.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000208.xml">00000208.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11512,7 +11512,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000357.xml">00000357.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000357.xml">00000357.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11533,7 +11533,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000097.xml">00000097.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000097.xml">00000097.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11554,7 +11554,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000334.xml">00000334.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000334.xml">00000334.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11575,7 +11575,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000254.xml">00000254.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000254.xml">00000254.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -11596,7 +11596,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000236.xml">00000236.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000236.xml">00000236.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -11617,7 +11617,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000080.xml">00000080.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000080.xml">00000080.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11638,7 +11638,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000095.xml">00000095.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000095.xml">00000095.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11659,7 +11659,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000055.xml">00000055.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000055.xml">00000055.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11680,7 +11680,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000210.xml">00000210.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000210.xml">00000210.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11701,7 +11701,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000064.xml">00000064.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000064.xml">00000064.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11722,7 +11722,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000215.xml">00000215.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000215.xml">00000215.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11743,7 +11743,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000204.xml">00000204.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000204.xml">00000204.xml</a>
                            </td>
                            <td>14</td>
                            <td>1</td>
@@ -11764,7 +11764,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000218.xml">00000218.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000218.xml">00000218.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11785,7 +11785,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000085.xml">00000085.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000085.xml">00000085.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11806,7 +11806,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000007.xml">00000007.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000007.xml">00000007.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11827,7 +11827,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000042.xml">00000042.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000042.xml">00000042.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11848,7 +11848,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000396.xml">00000396.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000396.xml">00000396.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11869,7 +11869,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000028.xml">00000028.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000028.xml">00000028.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11890,7 +11890,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000171.xml">00000171.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000171.xml">00000171.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11911,7 +11911,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000267.xml">00000267.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000267.xml">00000267.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11932,7 +11932,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000049.xml">00000049.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000049.xml">00000049.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11953,7 +11953,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000199.xml">00000199.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000199.xml">00000199.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11974,7 +11974,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000351.xml">00000351.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000351.xml">00000351.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -11995,7 +11995,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000141.xml">00000141.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000141.xml">00000141.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12016,7 +12016,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000186.xml">00000186.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000186.xml">00000186.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12037,7 +12037,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000221.xml">00000221.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000221.xml">00000221.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12058,7 +12058,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000395.xml">00000395.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000395.xml">00000395.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12079,7 +12079,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000325.xml">00000325.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000325.xml">00000325.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -12100,7 +12100,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000134.xml">00000134.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000134.xml">00000134.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12121,7 +12121,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000010.xml">00000010.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000010.xml">00000010.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12142,7 +12142,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000164.xml">00000164.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000164.xml">00000164.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12163,7 +12163,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000090.xml">00000090.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000090.xml">00000090.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12184,7 +12184,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000259.xml">00000259.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000259.xml">00000259.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -12205,7 +12205,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000098.xml">00000098.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000098.xml">00000098.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12226,7 +12226,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000048.xml">00000048.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000048.xml">00000048.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12247,7 +12247,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000158.xml">00000158.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000158.xml">00000158.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12268,7 +12268,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000201.xml">00000201.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000201.xml">00000201.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12289,7 +12289,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000265.xml">00000265.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000265.xml">00000265.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12310,7 +12310,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000108.xml">00000108.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000108.xml">00000108.xml</a>
                            </td>
                            <td>15</td>
                            <td>1</td>
@@ -12331,7 +12331,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000206.xml">00000206.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000206.xml">00000206.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12352,7 +12352,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000180.xml">00000180.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000180.xml">00000180.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12373,7 +12373,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000319.xml">00000319.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000319.xml">00000319.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12394,7 +12394,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000128.xml">00000128.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000128.xml">00000128.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12415,7 +12415,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000172.xml">00000172.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000172.xml">00000172.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -12436,7 +12436,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000077.xml">00000077.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000077.xml">00000077.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12457,7 +12457,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000170.xml">00000170.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000170.xml">00000170.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12478,7 +12478,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000061.xml">00000061.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000061.xml">00000061.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12499,7 +12499,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000332.xml">00000332.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000332.xml">00000332.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12520,7 +12520,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000037.xml">00000037.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000037.xml">00000037.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12541,7 +12541,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000277.xml">00000277.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000277.xml">00000277.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12562,7 +12562,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000040.xml">00000040.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000040.xml">00000040.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12583,7 +12583,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000366.xml">00000366.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000366.xml">00000366.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12604,7 +12604,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000225.xml">00000225.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000225.xml">00000225.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12625,7 +12625,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000196.xml">00000196.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000196.xml">00000196.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12646,7 +12646,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000152.xml">00000152.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000152.xml">00000152.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12667,7 +12667,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000345.xml">00000345.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000345.xml">00000345.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12688,7 +12688,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000118.xml">00000118.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000118.xml">00000118.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12709,7 +12709,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000313.xml">00000313.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000313.xml">00000313.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -12730,7 +12730,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000009.xml">00000009.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000009.xml">00000009.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12751,7 +12751,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000072.xml">00000072.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000072.xml">00000072.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12772,7 +12772,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000018.xml">00000018.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000018.xml">00000018.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -12793,7 +12793,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000328.xml">00000328.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000328.xml">00000328.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -12814,7 +12814,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000073.xml">00000073.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000073.xml">00000073.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12835,7 +12835,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000025.xml">00000025.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000025.xml">00000025.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12856,7 +12856,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000243.xml">00000243.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000243.xml">00000243.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -12877,7 +12877,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000167.xml">00000167.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000167.xml">00000167.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12898,7 +12898,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000379.xml">00000379.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000379.xml">00000379.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12919,7 +12919,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000258.xml">00000258.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000258.xml">00000258.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -12940,7 +12940,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000378.xml">00000378.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000378.xml">00000378.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12961,7 +12961,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000269.xml">00000269.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000269.xml">00000269.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -12982,7 +12982,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000360.xml">00000360.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000360.xml">00000360.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13003,7 +13003,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000193.xml">00000193.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000193.xml">00000193.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13024,7 +13024,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000229.xml">00000229.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000229.xml">00000229.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13045,7 +13045,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000022.xml">00000022.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000022.xml">00000022.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -13066,7 +13066,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000081.xml">00000081.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000081.xml">00000081.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13087,7 +13087,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000238.xml">00000238.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000238.xml">00000238.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -13108,7 +13108,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000096.xml">00000096.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000096.xml">00000096.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13129,7 +13129,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000391.xml">00000391.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000391.xml">00000391.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13150,7 +13150,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000329.xml">00000329.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000329.xml">00000329.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -13171,7 +13171,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000338.xml">00000338.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000338.xml">00000338.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13192,7 +13192,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000143.xml">00000143.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000143.xml">00000143.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13213,7 +13213,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000137.xml">00000137.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000137.xml">00000137.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13234,7 +13234,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000237.xml">00000237.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000237.xml">00000237.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -13255,7 +13255,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000105.xml">00000105.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000105.xml">00000105.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13276,7 +13276,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000248.xml">00000248.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000248.xml">00000248.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -13297,7 +13297,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000219.xml">00000219.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000219.xml">00000219.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13318,7 +13318,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000154.xml">00000154.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000154.xml">00000154.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13339,7 +13339,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000244.xml">00000244.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000244.xml">00000244.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -13360,7 +13360,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000102.xml">00000102.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000102.xml">00000102.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13381,7 +13381,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000245.xml">00000245.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000245.xml">00000245.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -13402,7 +13402,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000270.xml">00000270.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000270.xml">00000270.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -13423,7 +13423,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000230.xml">00000230.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000230.xml">00000230.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13444,7 +13444,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000057.xml">00000057.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000057.xml">00000057.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13465,70 +13465,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000117.xml">00000117.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000166.xml">00000166.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000074.xml">00000074.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000160.xml">00000160.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000117.xml">00000117.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13549,7 +13486,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000364.xml">00000364.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000166.xml">00000166.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13570,7 +13507,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000340.xml">00000340.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000074.xml">00000074.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13591,7 +13528,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000088.xml">00000088.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000160.xml">00000160.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000364.xml">00000364.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13612,7 +13570,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000373.xml">00000373.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000340.xml">00000340.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13633,7 +13591,49 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000263.xml">00000263.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000088.xml">00000088.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000373.xml">00000373.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000263.xml">00000263.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -13654,7 +13654,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000039.xml">00000039.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000039.xml">00000039.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13675,7 +13675,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000209.xml">00000209.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000209.xml">00000209.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13696,7 +13696,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000135.xml">00000135.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000135.xml">00000135.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13717,7 +13717,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000376.xml">00000376.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000376.xml">00000376.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13738,7 +13738,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000358.xml">00000358.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000358.xml">00000358.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13759,7 +13759,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000278.xml">00000278.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000278.xml">00000278.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13780,7 +13780,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000047.xml">00000047.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000047.xml">00000047.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13801,28 +13801,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000339.xml">00000339.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000185.xml">00000185.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000339.xml">00000339.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13843,7 +13822,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000374.xml">00000374.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000185.xml">00000185.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000374.xml">00000374.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13864,7 +13864,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000013.xml">00000013.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000013.xml">00000013.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -13885,7 +13885,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000250.xml">00000250.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000250.xml">00000250.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -13906,7 +13906,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000268.xml">00000268.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000268.xml">00000268.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -13927,7 +13927,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000113.xml">00000113.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000113.xml">00000113.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13948,7 +13948,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000246.xml">00000246.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000246.xml">00000246.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -13969,7 +13969,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000008.xml">00000008.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000008.xml">00000008.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -13990,7 +13990,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000343.xml">00000343.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000343.xml">00000343.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14011,7 +14011,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000103.xml">00000103.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000103.xml">00000103.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14032,7 +14032,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000136.xml">00000136.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000136.xml">00000136.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14053,7 +14053,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000320.xml">00000320.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000320.xml">00000320.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14074,7 +14074,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000252.xml">00000252.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000252.xml">00000252.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -14095,7 +14095,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000197.xml">00000197.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000197.xml">00000197.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14116,7 +14116,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000200.xml">00000200.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000200.xml">00000200.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14137,7 +14137,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000375.xml">00000375.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000375.xml">00000375.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14158,7 +14158,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000032.xml">00000032.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000032.xml">00000032.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14179,7 +14179,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000083.xml">00000083.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000083.xml">00000083.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14200,7 +14200,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000122.xml">00000122.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000122.xml">00000122.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14221,7 +14221,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000368.xml">00000368.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000368.xml">00000368.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14242,7 +14242,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000383.xml">00000383.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000383.xml">00000383.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14263,7 +14263,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000220.xml">00000220.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000220.xml">00000220.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14284,7 +14284,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000029.xml">00000029.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000029.xml">00000029.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14305,7 +14305,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000063.xml">00000063.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000063.xml">00000063.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14326,7 +14326,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000065.xml">00000065.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000065.xml">00000065.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14347,7 +14347,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000227.xml">00000227.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000227.xml">00000227.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14368,7 +14368,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000249.xml">00000249.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000249.xml">00000249.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -14389,7 +14389,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000255.xml">00000255.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000255.xml">00000255.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -14410,7 +14410,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000084.xml">00000084.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000084.xml">00000084.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14431,7 +14431,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000145.xml">00000145.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000145.xml">00000145.xml</a>
                            </td>
                            <td>16</td>
                            <td>1</td>
@@ -14452,7 +14452,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000266.xml">00000266.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000266.xml">00000266.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -14473,7 +14473,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000021.xml">00000021.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000021.xml">00000021.xml</a>
                            </td>
                            <td>13</td>
                            <td>1</td>
@@ -14494,7 +14494,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000187.xml">00000187.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000187.xml">00000187.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14515,7 +14515,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000344.xml">00000344.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000344.xml">00000344.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14536,7 +14536,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000382.xml">00000382.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000382.xml">00000382.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14557,7 +14557,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000184.xml">00000184.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000184.xml">00000184.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14578,7 +14578,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000120.xml">00000120.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000120.xml">00000120.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14599,7 +14599,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000131.xml">00000131.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000131.xml">00000131.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -14620,7 +14620,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000349.xml">00000349.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000349.xml">00000349.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14641,7 +14641,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000393.xml">00000393.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000393.xml">00000393.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14662,7 +14662,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000370.xml">00000370.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000370.xml">00000370.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -14683,7 +14683,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1806_1_GN_A_351/GT-PAGE/00000327.xml">00000327.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1806_1_GN_A_351/GT-PAGE/00000327.xml">00000327.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -14753,7 +14753,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000005.xml">00000005.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000005.xml">00000005.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -14774,7 +14774,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000149.xml">00000149.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000149.xml">00000149.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -14795,7 +14795,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000146.xml">00000146.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000146.xml">00000146.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -14816,7 +14816,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000012.xml">00000012.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000012.xml">00000012.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -14837,7 +14837,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000147.xml">00000147.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000147.xml">00000147.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -14858,7 +14858,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000151.xml">00000151.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000151.xml">00000151.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -14879,7 +14879,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000006.xml">00000006.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000006.xml">00000006.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -14900,7 +14900,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000014.xml">00000014.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000014.xml">00000014.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -14921,7 +14921,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000011.xml">00000011.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000011.xml">00000011.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -14942,7 +14942,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000153.xml">00000153.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000153.xml">00000153.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -14963,7 +14963,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000148.xml">00000148.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000148.xml">00000148.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -14984,7 +14984,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000150.xml">00000150.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000150.xml">00000150.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -15005,7 +15005,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000007.xml">00000007.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000007.xml">00000007.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -15026,7 +15026,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000010.xml">00000010.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000010.xml">00000010.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -15047,7 +15047,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000152.xml">00000152.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000152.xml">00000152.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -15068,7 +15068,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000009.xml">00000009.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000009.xml">00000009.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -15089,7 +15089,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000154.xml">00000154.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000154.xml">00000154.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -15110,7 +15110,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000013.xml">00000013.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000013.xml">00000013.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -15131,7 +15131,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000008.xml">00000008.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000008.xml">00000008.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -15152,7 +15152,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1774_3_GN_A_171/GT-PAGE/00000145.xml">00000145.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1774_3_GN_A_171/GT-PAGE/00000145.xml">00000145.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -15222,7 +15222,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000271.xml">00000271.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000271.xml">00000271.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15243,7 +15243,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000191.xml">00000191.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000191.xml">00000191.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15264,7 +15264,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000015.xml">00000015.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000015.xml">00000015.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -15285,7 +15285,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000192.xml">00000192.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000192.xml">00000192.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -15306,7 +15306,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000050.xml">00000050.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000050.xml">00000050.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -15327,7 +15327,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000005.xml">00000005.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000005.xml">00000005.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -15348,7 +15348,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000036.xml">00000036.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000036.xml">00000036.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -15369,7 +15369,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000173.xml">00000173.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000173.xml">00000173.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15390,7 +15390,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000195.xml">00000195.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000195.xml">00000195.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -15411,7 +15411,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000035.xml">00000035.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000035.xml">00000035.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -15432,7 +15432,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000179.xml">00000179.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000179.xml">00000179.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15453,7 +15453,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000188.xml">00000188.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000188.xml">00000188.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15474,7 +15474,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000023.xml">00000023.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000023.xml">00000023.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -15495,7 +15495,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000012.xml">00000012.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000012.xml">00000012.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15516,7 +15516,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000169.xml">00000169.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000169.xml">00000169.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -15537,7 +15537,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000181.xml">00000181.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000181.xml">00000181.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15558,7 +15558,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000183.xml">00000183.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000183.xml">00000183.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15579,7 +15579,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000194.xml">00000194.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000194.xml">00000194.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -15600,7 +15600,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000034.xml">00000034.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000034.xml">00000034.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15621,7 +15621,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000054.xml">00000054.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000054.xml">00000054.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -15642,7 +15642,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000043.xml">00000043.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000043.xml">00000043.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15663,7 +15663,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000038.xml">00000038.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000038.xml">00000038.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15684,7 +15684,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000177.xml">00000177.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000177.xml">00000177.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15705,7 +15705,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000174.xml">00000174.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000174.xml">00000174.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15726,7 +15726,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000006.xml">00000006.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000006.xml">00000006.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15747,7 +15747,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000014.xml">00000014.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000014.xml">00000014.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15768,7 +15768,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000024.xml">00000024.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000024.xml">00000024.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15789,7 +15789,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000011.xml">00000011.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000011.xml">00000011.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -15810,7 +15810,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000190.xml">00000190.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000190.xml">00000190.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15831,7 +15831,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000044.xml">00000044.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000044.xml">00000044.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15852,7 +15852,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000027.xml">00000027.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000027.xml">00000027.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -15873,7 +15873,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000175.xml">00000175.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000175.xml">00000175.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15894,7 +15894,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000178.xml">00000178.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000178.xml">00000178.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -15915,7 +15915,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000046.xml">00000046.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000046.xml">00000046.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15936,7 +15936,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000016.xml">00000016.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000016.xml">00000016.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15957,7 +15957,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000019.xml">00000019.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000019.xml">00000019.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -15978,7 +15978,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000020.xml">00000020.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000020.xml">00000020.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -15999,7 +15999,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000026.xml">00000026.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000026.xml">00000026.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16020,7 +16020,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000051.xml">00000051.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000051.xml">00000051.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16041,7 +16041,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000030.xml">00000030.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000030.xml">00000030.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -16062,217 +16062,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000017.xml">00000017.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000031.xml">00000031.xml</a>
-                           </td>
-                           <td>23</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000045.xml">00000045.xml</a>
-                           </td>
-                           <td>23</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000189.xml">00000189.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000182.xml">00000182.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000176.xml">00000176.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000052.xml">00000052.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000033.xml">00000033.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000053.xml">00000053.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000041.xml">00000041.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000007.xml">00000007.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000017.xml">00000017.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16293,238 +16083,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000042.xml">00000042.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000028.xml">00000028.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000171.xml">00000171.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000049.xml">00000049.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000186.xml">00000186.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000010.xml">00000010.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000048.xml">00000048.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000180.xml">00000180.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000172.xml">00000172.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000170.xml">00000170.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000037.xml">00000037.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000040.xml">00000040.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000031.xml">00000031.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -16545,7 +16104,448 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000196.xml">00000196.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000045.xml">00000045.xml</a>
+                           </td>
+                           <td>23</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000189.xml">00000189.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000182.xml">00000182.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000176.xml">00000176.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000052.xml">00000052.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000033.xml">00000033.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000053.xml">00000053.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000041.xml">00000041.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000007.xml">00000007.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000042.xml">00000042.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000028.xml">00000028.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000171.xml">00000171.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000049.xml">00000049.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000186.xml">00000186.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000010.xml">00000010.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000048.xml">00000048.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000180.xml">00000180.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000172.xml">00000172.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000170.xml">00000170.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000037.xml">00000037.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000040.xml">00000040.xml</a>
+                           </td>
+                           <td>23</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000196.xml">00000196.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16566,7 +16566,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000009.xml">00000009.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000009.xml">00000009.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -16587,7 +16587,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000018.xml">00000018.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000018.xml">00000018.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -16608,7 +16608,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000025.xml">00000025.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000025.xml">00000025.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16629,7 +16629,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000193.xml">00000193.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000193.xml">00000193.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16650,7 +16650,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000022.xml">00000022.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000022.xml">00000022.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16671,7 +16671,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000039.xml">00000039.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000039.xml">00000039.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -16692,7 +16692,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000047.xml">00000047.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000047.xml">00000047.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16713,7 +16713,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000185.xml">00000185.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000185.xml">00000185.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16734,7 +16734,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000013.xml">00000013.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000013.xml">00000013.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -16755,7 +16755,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000008.xml">00000008.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000008.xml">00000008.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16776,7 +16776,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000197.xml">00000197.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000197.xml">00000197.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -16797,7 +16797,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000032.xml">00000032.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000032.xml">00000032.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -16818,7 +16818,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000029.xml">00000029.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000029.xml">00000029.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -16839,7 +16839,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000063.xml">00000063.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000063.xml">00000063.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16860,7 +16860,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000021.xml">00000021.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000021.xml">00000021.xml</a>
                            </td>
                            <td>23</td>
                            <td>1</td>
@@ -16881,7 +16881,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000187.xml">00000187.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000187.xml">00000187.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -16902,7 +16902,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v0.0.5/data/GN_1788_5_GN_A_250/GT-PAGE/00000184.xml">00000184.xml</a>
+                              <a href="https://github.com/bertsky/mkn-kurrent-gt/blob/v1.0.0/data/GN_1788_5_GN_A_250/GT-PAGE/00000184.xml">00000184.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
