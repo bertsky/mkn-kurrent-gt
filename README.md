@@ -285,12 +285,12 @@
       (Brüder-Gemeine) from Herrnhut. The German texts are written in Kurrent
       by various writers and originate between 1765 and 1807.
       The METS files derive directly from the respective digitised objects in the
-      [Digital Collections of SLUB](https://digital.slub-dresden.de). They have
-      been completed by an additional fileGrp `GT-PAGE`.
+      <a href="https://digital.slub-dresden.de">Digital Collections of SLUB</a>.
+      They have been completed by an additional fileGrp `GT-PAGE`.
       </p>
       <p>
       For workflows how these files were created and can be used for training
-      OCR models, cf. [Wiki pages](https://github.com/bertsky/mkn-kurrent-gt/wiki).
+      OCR models, cf. <a href="https://github.com/bertsky/mkn-kurrent-gt/wiki">Wiki pages</a>.
       </p>
    </div>
 </div>
