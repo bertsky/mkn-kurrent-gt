@@ -1,5 +1,5 @@
 <div>
-   <h1 id="title">test-gt</h1>
+   <h1 id="title">mkn-kurrent-gt</h1>
    <p id="paragraph">Kurrent GT from the Moravian Knowledge Network handwritten periodicals</p>
    <h2>Metadata</h2>
    <dl class="grid">
