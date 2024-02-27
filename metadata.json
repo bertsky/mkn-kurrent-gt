@@ -15,6 +15,13 @@
       "surname": "Menzer",
       "roles": [
         "transcriber",
+        "quality-control"
+      ]
+    },
+    {
+      "name": "Robert",
+      "surname": "Sachunsky",
+      "roles": [
         "quality-control",
         "support"
       ]
@@ -68,9 +75,10 @@
       "count": 800
     }
   ],
-  "transcription-guidelines": "OCR-D GT Level 2, but with ℓ as ",
+  "transcription-guidelines": "OCR-D GT Level 2, but with ℓ as Suspensionsschleife and 〚...〛 for insertion",
   "modeltitle": "herrnhut-kurrent",
   "modeldescription": "deep+wide topology, with augmentation, no binarization, only Herrnhut Kurrent",
+  "modelurl": "https://github.com/bertsky/mkn-kurrent-gt/releases",
   "modelengine": "Kraken CLI (Ketos)",
   "gtvolume": {
     "TxtRegion": "1220",

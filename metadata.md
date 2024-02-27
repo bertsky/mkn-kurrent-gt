@@ -21,7 +21,7 @@
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D GT Level 2, but with ℓ as </dd>
+         <dd>OCR-D GT Level 2, but with ℓ as Suspensionsschleife and 〚...〛 for insertion</dd>
          <dt>License:</dt>
          <dd>PublicDomainMark 1.0</dd>
          <dt>Project:</dt>
@@ -121,7 +121,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v1.0.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 7_v1.0.1</a>
+         <a href="https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v1.0.4">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 11_v1.0.4</a>
       </li>
       <li>
          <a href="https://github.com/bertsky/mkn-kurrent-gt/releases">Version archive</a>
