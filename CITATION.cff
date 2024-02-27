@@ -8,6 +8,8 @@ authors:
       family-names: garces
     - given-names: Carolin
       family-names: Menzer
+    - given-names: Robert
+      family-names: Sachunsky
     - given-names: xyz
     - given-names: SLUB
 repository-code: 'https://github.com/bertsky/mkn-kurrent-gt'
@@ -21,6 +23,6 @@ keywords:
     - ground-truth
     - data_structure_and_text
 license: PublicDomainMark 1.0
-commit: v1.0.1
-version: 7_v1.0.1
-date-released: '2024-2-26'
+commit: v1.0.4
+version: 11_v1.0.4
+date-released: '2024-2-27'
