@@ -14,7 +14,7 @@
       <dt id="License">License:</dt>
       <dd>PublicDomainMark 1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
-      <dd>OCR-D GT Level 2, but with ℓ as </dd>
+      <dd>OCR-D GT Level 2, but with ℓ as Suspensionsschleife and 〚...〛 for insertion</dd>
       <dt id="Project">Project:</dt>
       <dd>Gemein-Nachrichten der Herrnhuter Brüdergemeine</dd>
       <dt id="Project-URL">Project-URL:</dt>
