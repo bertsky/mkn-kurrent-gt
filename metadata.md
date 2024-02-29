@@ -121,7 +121,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v1.0.4">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 11_v1.0.4</a>
+         <a href="https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v1.0.7">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 14_v1.0.7</a>
       </li>
       <li>
          <a href="https://github.com/bertsky/mkn-kurrent-gt/releases">Version archive</a>
