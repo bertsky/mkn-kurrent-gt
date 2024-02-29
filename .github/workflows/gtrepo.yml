@@ -20,7 +20,7 @@ jobs:
         permissions:
             checks: write
             contents: write
-        steps:      
+        steps:
           - name: Checkout
             uses: actions/checkout@v4
 
@@ -31,10 +31,10 @@ jobs:
           - name: Using tag name from input param
             if: github.event.inputs.tag-name != ''
             run: echo "TAG_NAME=${{ github.event.inputs.tag-name}}" >> $GITHUB_ENV  
-  
+
           - name: download and install Saxon
             run: |
-              wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/SaxonHE12-3J.zip 
+              wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/SaxonHE12-3J.zip
               unzip SaxonHE12-3J.zip
               rm SaxonHE12-3J.zip
 
@@ -64,31 +64,31 @@ jobs:
                 test -e ghout/pathtest.md
                 if test -s ghout/pathtest.md; then \
                   cat ghout/pathtest.md; false; fi
-    
+
           - name: install GT Labelling docs
             run: git clone https://github.com/tboenig/gt-guidelines.git
-      
+
           - name: make output directories
             run: mkdir metadata_out ocrdzip_out
-            
+
           - name: move README to readme_old/
             run:  bash scripts/readmefolder.sh
-      
+
           - name: make readme.xml
-            run: bash scripts/xreadme.sh  
+            run: bash scripts/xreadme.sh
 
           - name: transform METADATA and make GT-Overview
             run: |
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
               output=METADATA repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
               -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
-      
+
           - name: make compressed table view
             run: |
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
               output=TABLE repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY \
               -s:scripts/gt-overview_metadata.xsl -o:ghout/table.md
-      
+
           - name: detailed table view 
             run: |
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
@@ -100,12 +100,13 @@ jobs:
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-level_parser.xsl \
               repoName=$GITHUB_REPOSITORY \
               -s:scripts/gt-level_parser.xsl -o:ghout/overview-level.md
-      
+
           - name: generate mets.sh
             run: |
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
               output=METS repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY \
               -s:scripts/gt-overview_metadata.xsl -o:scripts/mets.sh
+              cat scripts/mets.sh
 
           - name: generate Metadata JSON file
             run: |
@@ -130,7 +131,7 @@ jobs:
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
               output=METSvolume repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=${{ env.TAG_NAME }} \
               -s:scripts/gt-overview_metadata.xsl -o:metadata_out/mets.xml
-      
+
           - name: generate release download list
             run: |
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
@@ -158,10 +159,10 @@ jobs:
 
           - name: symlink metadata as index
             run: ln -s ghout/metadata.md ghout/index.md
-    
+
           - name: ensure valid METS
             run: bash -ex scripts/data_mets.sh
-    
+
           - name: install ocrd and bagit
             run: |
               sudo apt-get install -y python3 imagemagick libgeos-dev
@@ -169,7 +170,7 @@ jobs:
               pip install ocrd
               ocrd --version
 
-          - name: make validMets  
+          - name: make validMets
             run: bash -ex scripts/mets.sh
 
           - name: make bagit
@@ -187,10 +188,10 @@ jobs:
             with:
                 filename: metadata-v${{ github.run_number }}.zip
                 path: 'metadata_out'
-      
+
           - name: copy metadata.zip to ocrdzip_out
             run: cp metadata-v${{ github.run_number }}.zip ocrdzip_out/
-              
+
           - name: upload release assets
             uses: ncipollo/release-action@v1
             if: env.TAG_NAME != ''
@@ -225,7 +226,7 @@ jobs:
               git config --local user.name "github-actions[bot]"
               git add README.md
               git commit -m "[Automatic] Update readme files" || echo "Nothing to update"
-              git push origin HEAD:main
+              git push origin HEAD:${{ github.head_ref }}
 
           - name: commit CITATION.cff
             run: |
@@ -233,7 +234,7 @@ jobs:
               git config --local user.name "github-actions[bot]"
               git add CITATION.cff
               git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
-              git push origin HEAD:main    
+              git push origin HEAD:${{ github.head_ref }}
 
           - name: deploy GT Overview to GitHub Pages branch 🚀
             uses: JamesIves/github-pages-deploy-action@v4.4.1
