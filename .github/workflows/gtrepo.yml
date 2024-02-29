@@ -106,6 +106,7 @@ jobs:
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_metadata.xsl \
               output=METS repoBase=${{ env.TAG_NAME }} repoName=$GITHUB_REPOSITORY \
               -s:scripts/gt-overview_metadata.xsl -o:scripts/mets.sh
+              ls -l scripts/mets.sh
               cat scripts/mets.sh
 
           - name: generate Metadata JSON file
@@ -226,7 +227,7 @@ jobs:
               git config --local user.name "github-actions[bot]"
               git add README.md
               git commit -m "[Automatic] Update readme files" || echo "Nothing to update"
-              git push origin HEAD:${{ github.head_ref }}
+              git push origin HEAD:${{ github.ref_name }}
 
           - name: commit CITATION.cff
             run: |
@@ -234,7 +235,7 @@ jobs:
               git config --local user.name "github-actions[bot]"
               git add CITATION.cff
               git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
-              git push origin HEAD:${{ github.head_ref }}
+              git push origin HEAD:${{ github.ref_name }}
 
           - name: deploy GT Overview to GitHub Pages branch 🚀
             uses: JamesIves/github-pages-deploy-action@v4.4.1
