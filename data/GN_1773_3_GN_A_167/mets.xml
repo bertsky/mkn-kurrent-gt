@@ -5150,7 +5150,7 @@
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="https://digital.slub-dresden.de/data/kitodo/NachaudeB_1766125301_1773_3/NachaudeB_1766125301_1773_3_tif/jpegs/00000832.tif.thumbnail.jpg"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="ORIGINAL">
+    <mets:fileGrp USE="OCR-D-IMG">
       <mets:file ID="FILE_0001_ORIGINAL" MIMETYPE="image/jpeg">
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="https://digital.slub-dresden.de/data/kitodo/NachaudeB_1766125301_1773_3/NachaudeB_1766125301_1773_3_tif/jpegs/00000001.tif.original.jpg"/>
       </mets:file>

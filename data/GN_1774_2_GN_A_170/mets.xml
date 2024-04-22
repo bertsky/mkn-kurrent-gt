@@ -6843,7 +6843,7 @@
         <mets:FLocat LOCTYPE="URL" xlink:href="https://digital.slub-dresden.de/data/kitodo/NachaudeB_1766135978_1774_2/NachaudeB_1766135978_1774_2_tif/jpegs/NachaudeB_1766135978_1774_2.pdf"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="ORIGINAL">
+    <mets:fileGrp USE="OCR-D-IMG">
       <mets:file ID="uuid-a80500d3-2c94-4c97-9888-a54309f5ccfe" MIMETYPE="image/jpeg">
         <mets:FLocat xlink:href="https://digital.slub-dresden.de/data/kitodo/NachaudeB_1766135978_1774_2/NachaudeB_1766135978_1774_2_tif/jpegs/00000001.tif.original.jpg" LOCTYPE="URL"/>
       </mets:file>
